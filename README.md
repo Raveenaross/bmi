@@ -1,4 +1,4 @@
-This website calculates the BMI for a human 
+
 
 ![Screenshot 2024-06-28 00 23 29](https://github.com/Raveenaross/bmi/assets/166907857/244d5725-ef7c-42fa-824d-9fdba14b95a8)
 
